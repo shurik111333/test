@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+*.manifest
+/ConsoleApplication1/ConsoleApplication1/bin/Debug
+/ConsoleApplication1/ConsoleApplication1/obj/Debug
+
+**/bin
+**/obj
